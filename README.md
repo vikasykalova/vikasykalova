@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikasykalova
-- 👀 I’m interested in web-development
+- 👀 I’m interested in Frontend
 - 🌱 I’m currently learning JavaScript to become a cool Frontend Developer😎
 - 💞️ I’m looking to collaborate on with awesome people!
 - 📫 How to reach me - vikasykalova@gmail.com
