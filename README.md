@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on with awesome people!
 - 📫 How to reach me - vikasykalova@gmail.com
 Instagram - @webdesignvik
+Telegram - @viktoryys
 
 <!---
 vikasykalova/vikasykalova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
