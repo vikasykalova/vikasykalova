@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikasykalova
-- 👀 I’m Junior Frontend development
-- 🌱 I like to code and make things alive with JavaScript😎 Hope I'll become Senior Frontend Developer someday!
-- 💞️ I’m looking to collaborate on with awesome people!
+- 👀 I’m Junior Frontend Developer
+- 🌱 I like to code and make things alive with JavaScript😎 Hope I'll become a Senior Frontend Developer someday!
+- 💞️ I’m looking for collaborating on with awesome people and great projects!
 - 📫 How to reach me - vikasykalova@gmail.com, telegram - @viktoryys
 
 <!---
