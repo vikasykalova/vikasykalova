@@ -9,7 +9,7 @@
   <a href="https://www.tiktok.com/@webdesignvik">
     <img src="https://img.shields.io/badge/Tiktok-white?logo=tiktok&logoColor=black&style=for-the-badge" alt="Tiktok Badge"/>
   </a>
-  <div align="center"><img src="https://komarev.com/ghpvc/?username=vikasykalova&style=flat-square&color=blue" alt=""/></div>
+  <div align="center"><img src="https://komarev.com/ghpvc/?username=vikasykalova&style=flat-square&color=F03E3D" alt=""/></div>
 
 <h1>
   Hi everyone!
