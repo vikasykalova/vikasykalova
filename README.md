@@ -6,9 +6,6 @@
   <a href="https://teleg.run/viktoryys">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.tiktok.com/@webdesignvik">
-    <img src="https://img.shields.io/badge/Tiktok-white?logo=tiktok&logoColor=black&style=for-the-badge" alt="Tiktok Badge"/>
-  </a>
   <div align="center"><img src="https://komarev.com/ghpvc/?username=vikasykalova&style=flat-square&color=F03E3D" alt=""/></div>
 
 <h1>
