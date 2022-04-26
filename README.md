@@ -20,7 +20,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :seedling: I like to write code and make things alive with JavaScript😎
+- :seedling: I like to write code and make websites alive😎
 
 - :zap: I’m looking for collaborating on with awesome people and great projects!
 
